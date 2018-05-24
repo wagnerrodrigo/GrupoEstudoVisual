@@ -1,0 +1,21 @@
+http://intervox.nce.ufrj.br/mecdaisy/
+
+O Ministério da Educação lança o Mecdaisy, uma solução tecnológica que
+permitirá a produção de livros em formato digital acessível, no padrão Daisy.
+Desenvolvido por meio de parceria com o Núcleo de Computação Eletrônica da 
+Universidade Federal do Rio de Janeiro - NCE/UFRJ - o Mecdaisy possibilita a 
+geração de livros digitais falados e sua reprodução em áudio, gravado ou 
+sintetizado.
+
+Este padrão apresenta facilidade de navegação pelo texto, permitindo a 
+reprodução sincronizada de trechos selecionados, o recuo e o avanço de 
+parágrafos e a busca de seções ou capítulos. Possibilita também, anexar 
+anotações aos arquivos do livro, exportar o texto para impressão em Braille, 
+bem como a leitura em caractere ampliado. Todo texto é indexado, facilitando, 
+assim, a manipulação através de índices ou buscas rápidas.
+
+Além dos benefícios do Mecdaisy às pessoas com deficiência visual ou física 
+que podem ter acesso à leitura sob a forma de áudio e texto digital, destaca-se
+que está disponível a metodologia para geração de livros neste padrão, 
+que poderá ser utilizada gratuitamente nas escolas e instituições de educação 
+superior, para garantia da acessibilidade.
