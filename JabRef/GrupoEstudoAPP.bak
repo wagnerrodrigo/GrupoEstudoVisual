@@ -142,4 +142,16 @@ Palavras-chave: Sistema móvel; mobilidade; acessibilidade.},
   file          = {:Relatorio_da_Avaliacao_de_Acessibilidade_da_Plataf.pdf:PDF},
 }
 
+@Article{,
+  author = {Wagner rodrigo da silva},
+  title  = {Dosvox},
+  file   = {:/home/wagner/FACULDADE/Lab interface com usuario/ProjetoGrupoEstudo/Relatorios/DOSVOX.docx:Word 2007+;:Dosvox-Mais.pdf:PDF;:SOFTWARES DE ACESSIBILIDADE DOSVOX E VIRTUAL VISION.pdf:PDF},
+}
+
+@Article{,
+  author = {Wagner Rodrigo da Silva},
+  title  = {Virtual Vision},
+  file   = {:/home/wagner/FACULDADE/Lab interface com usuario/ProjetoGrupoEstudo/Relatorios/Virtual Vision.docx:Word 2007+;:SOFTWARES DE ACESSIBILIDADE DOSVOX E VIRTUAL VISION.pdf:PDF},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
