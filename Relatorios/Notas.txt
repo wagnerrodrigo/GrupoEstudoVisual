@@ -35,3 +35,6 @@ https://esquadraodoconhecimento.wordpress.com/ciencias-da-natureza/fisica/como-f
 
 
 https://github.com/douglaszuqueto/controle-de-acesso
+
+O que e MQTT
+https://www.youtube.com/watch?v=qRV8Jusu-go
