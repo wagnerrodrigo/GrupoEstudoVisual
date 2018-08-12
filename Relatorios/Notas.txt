@@ -23,6 +23,7 @@ superior, para garantia da acessibilidade.
 
 
 
+
 http://tecladointeligente.com.br/
 
 
@@ -43,3 +44,7 @@ https://www.youtube.com/watch?v=qRV8Jusu-go
 
 Caracterização numérica de antenas para aplicações RFID utilizando o método das ondas - WCIP
 https://buscadorcoruja.com/trabalho?id=NjMyOTA3MQ==
+
+
+Perguntas Frequentes
+http://brasil.rfidjournal.com/perguntas-frequentes
