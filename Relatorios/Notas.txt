@@ -78,8 +78,13 @@ https://github.com/Bridouille/android-beacon-scanner
 Especificações do bluetooth
 https://www.bluetooth.com/specifications/gatt/services
 
+como funciona o protocolo do google
 
+https://mobiforge.com/design-development/googles-beacon-platform-and-the-physical-web
 
+>>>>>> muito bom!!!
+https://www.beaconzone.co.uk/BeaconsForTheInternetOfThings
+<<<<<<
 
 #################
 baixa frequência 125 KHZ -
