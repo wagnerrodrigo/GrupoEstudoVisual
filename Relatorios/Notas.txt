@@ -75,6 +75,8 @@ https://github.com/Bridouille/android-beacon-scanner
 
 !!! como funciona os protocolos do google https://www.beaconzone.co.uk/BeaconImplementationTypes
 
+Especificações do bluetooth
+https://www.bluetooth.com/specifications/gatt/services
 
 
 
