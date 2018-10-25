@@ -190,3 +190,40 @@ http://rfidinovacode.com.br/
 RFID BRASIL
 https://rfidbrasil.com/blog/o-que-e-a-tecnologia-rfid-e-como-ela-pode-ajudar-sua-empresa/
 >>>>>>> 90a79c76cee453ea6ecebfc189a0427074aa7271
+
+
+
+
+
+
+
+
+############################ notas de email ########################
+#
+
+https://imasters.com.br/desenvolvimento/ibeacon-entendendo-melhor-tecnologia-sua-utilizacao-e-seu-potencial
+http://redspark.io/utilizando-beacons-com-android/
+https://usemobile.com.br/conheca-beacon/
+https://medium.com/@arturgalenom/estrat%C3%A9gias-de-localiza%C3%A7%C3%A3o-em-ambientes-fechados-192792385961
+
+http://www.decom.ufop.br/imobilis/ibeacon-tutorial-de-uso/
+https://www.hackingwithswift.com/example-code/location/how-to-detect-ibeacons
+
+https://www.youtube.com/user/nerineitzke/search?query=beacon
+
+
+
+
+#
+####################################################################
+
+
+
+
+
+
+
+
+
+
+
